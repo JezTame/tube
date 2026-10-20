@@ -1,0 +1,20 @@
+# this is a comment
+# 90-degree bends of a single colour may connect suitably located stations.
+# It may help to add bends after early stages of building the map.
+
+line line1 [color=red, direction=h]
+    Alice -- Bob -- Charlie -- Diana;
+
+line line2 [color=orchid, direction=v]
+    Edward -- Charlie -- Frog
+
+line line3 [color=lightblue, direction=h]
+    Harry -- Sally;
+
+line line4 [color=royalblue, direction=h]
+    Snow White -- Seven Dwarves -- Frog -- Handsome Prince
+
+line line5 [color=gold, direction=h]
+    Alice -- Bob;
+
+bend Harry Alice [order=vh, color=red]

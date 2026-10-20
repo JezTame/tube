@@ -1,0 +1,9 @@
+line Smith [color=red, direction=h]
+    Alice -- Bob -- Charles -- Diana;
+
+line Jones [color=blue, direction=v]
+    Edward -- Charles -- Frances -- George;
+
+line Taylor [color=green, direction=u]
+    Frances -- Harry;
+
