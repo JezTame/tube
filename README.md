@@ -2,7 +2,7 @@
 
 **Tube is a simple Python program for generating schematic, topological diagrams of networks and relationships, inspired by Harry Beck's iconic map of the London Underground.**
 
-![Tube logo](logo.png)
+![Tube logo](combined-logo.png)
 
 Tube uses a short, human-readable description of *lines* and *stations* to make a file in SVG format. Although inspired by metro maps, the lines and stations can represent almost anything: people and family relationships, concepts, topics, or actual transport routes.
 
