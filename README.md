@@ -173,6 +173,10 @@ Tube begins with an approximate arrangement based on line order and preferred di
 
 The resulting diagrams are *schematic*: they are not intended to represent real distances. As with any heuristic optimiser, different networks may require different scoring weights or manual adjustments to obtain the most desirable appearance. Building a diagram up in steps, using coordinates saved from successive runs, will probably help in cases with many stations.
 
+## License
+
+Tube is released under the MIT License, allowing others to use, modify and redistribute the code. See [LICENSE](LICENSE).
+
 ## Project status
 
 Tube is a small experimental utility, developed for drawing general relationship diagrams. 
